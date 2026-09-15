@@ -112,11 +112,3 @@ These constraints are intentional to maintain clarity and correctness.
 ## Disclaimer
 
 This project is a classical simulation of quantum mechanics intended for educational, analytical, and experimental purposes. It does not interface with physical quantum hardware.
-
-## Author
-
-Developed by **SoyNeo12**
-
-## License
-
-MIT
